@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# TypeScript
+*.tsbuildinfo
+
+# Build output
+/dist
+/out
+
+# IDEs and editors
+/.idea
+/.vscode
+/.vs
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
